@@ -1,6 +1,6 @@
 ---
 title: White
-theme: White
+theme: white
 
 ---
 
